@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (Firezo)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Firezo.onrender.com";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
